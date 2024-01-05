@@ -28,3 +28,5 @@ print(type(my_flotante))
 print(type(my_bool))
 print(type(my_bool))
 print(type(my_strin))
+
+# este es mi reto
